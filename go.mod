@@ -1,4 +1,4 @@
-module github.com/rouzier/go-ipset/v2
+module github.com/inverse-inc/go-ipset/v2
 
 go 1.12
 
